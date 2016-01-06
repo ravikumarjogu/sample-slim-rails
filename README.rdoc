@@ -2,7 +2,7 @@
 
 A sample rails app, demonstrate Slim template wriring with an bootstrap free template.
 
-Its an alternate to haml and erb.
+Its an alternate to <code>haml</code> and <code>erb</code>.
 
 === Gems used:
 * slim
@@ -10,8 +10,8 @@ Its an alternate to haml and erb.
 * font-awesome
 
 === Bootstrap free template:
-* grayscale
+* grayscale[http://startbootstrap.com/template-overviews/grayscale/]
 
 === Slim files found at:
-* app/views/home/index.html.slim
-* app/views/posts/*.html.slim
+* <code>app/views/home/index.html.slim</code>
+* <code>app/views/posts/*.html.slim</code>

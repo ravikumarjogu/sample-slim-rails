@@ -7,3 +7,5 @@ Its an alternate to haml and erb.
 dependencies:
 * slim
 
+Check files at:
+	app/views/posts/*.slim

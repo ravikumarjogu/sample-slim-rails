@@ -7,7 +7,5 @@ html
     = javascript_include_tag "application", "data-turbolinks-track" => true
     = csrf_meta_tags
 
-  body
-    .container
-      br
+  body#page-top data-spy="scroll" data-target=".navbar-fixed-top" 
       = yield

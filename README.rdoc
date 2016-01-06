@@ -13,5 +13,5 @@ Bootstrap free template:
 *grayscale
 
 Slim files found at:
-	app/views/posts/*.slim
-	app/views/home/index.html.slim
+* app/views/home/index.html.slim
+* app/views/posts/*.html.slim

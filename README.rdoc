@@ -1,6 +1,6 @@
 == Sample Rails app with Slim
 
-A sample rails app explaing how slim can be used as template scripting.
+A sample rails app, demonstrate Slim template wriring with an bootstrap free template.
 
 Its an alternate to haml and erb.
 

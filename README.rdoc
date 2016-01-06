@@ -1,4 +1,4 @@
-== README
+== Sample Rails app with Slim
 
 A sample rails app explaing how slim can be used as template scripting.
 

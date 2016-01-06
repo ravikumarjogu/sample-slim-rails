@@ -4,8 +4,10 @@ A sample rails app explaing how slim can be used as template scripting.
 
 Its an alternate to haml and erb.
 
-dependencies:
+gem used:
 * slim
+* bootstrap-sass
+* font-awesome
 
 Check files at:
 	app/views/posts/*.slim

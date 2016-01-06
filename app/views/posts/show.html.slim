@@ -1,0 +1,10 @@
+p#notice = notice
+p
+  strong Title
+  = @post.title 
+p
+  strong Desc:
+  = @post.desc
+= link_to 'Edit', edit_post_path(@post)
+span |
+= link_to 'Back', posts_path

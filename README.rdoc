@@ -10,8 +10,10 @@ Its an alternate to <code>haml</code> and <code>erb</code>.
 * font-awesome
 
 === Bootstrap free template:
-* grayscale[http://startbootstrap.com/template-overviews/grayscale/]
+* Grayscale[http://startbootstrap.com/template-overviews/grayscale/]
+* Creative[http://ironsummitmedia.github.io/startbootstrap-creative/]
 
 === Slim files found at:
-* <code>app/views/home/index.html.slim</code>
+* Grayscale: <code>app/views/home/index.html.slim</code>
+* Creative: <code>app/views/home/creative.html.slim</code>
 * <code>app/views/posts/*.html.slim</code>

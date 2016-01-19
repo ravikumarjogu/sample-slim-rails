@@ -12,6 +12,8 @@ Its an alternate to <code>haml</code> and <code>erb</code>.
 === Bootstrap free template:
 * Grayscale[http://startbootstrap.com/template-overviews/grayscale/]
 * Creative[http://ironsummitmedia.github.io/startbootstrap-creative/]
+=== why
+* Slim is best choice over haml and erb if you more concern with <b>size of the code</b> and simplicity.
 
 === Slim files found at:
 * Grayscale: <code>app/views/home/index.html.slim</code>
